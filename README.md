@@ -1,2 +1,2 @@
 # test-repo
-demeo
+This is my demo
